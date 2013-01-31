@@ -1,0 +1,57 @@
+5 Random dates:
+--------------
+http://sqa.fyicenter.com/Online_Test_Tools/Random_Date_Time_Value_Generator.php
+02-Aug-2012,10-Sep-2012,17-Apr-2010,26-Oct-2011,18-Jun-2011
+
+5 Random indices:
+----------------
+http://www.randomizer.org/form.htm
+13, 9, 7, 4, 10
+
+
+5 Random sources:
+----------------
+Daily Mail
+Independent
+Mirror
+Guardian
+Economist
+
+
+
+C:\Users\Caesar\Documents\Caesar\acads\FrontiersOfComputationalJournalism\AssignmentThree>C:\Python27\python.exe randomize.py
+Enter your list : ['02-Aug-2012','10-Sep-2012','17-Apr-2010','26-Oct-2011','18-J
+un-2011']
+The randomized list :
+26-Oct-2011
+17-Apr-2010
+02-Aug-2012
+18-Jun-2011
+10-Sep-2012
+
+C:\Users\Caesar\Documents\Caesar\acads\FrontiersOfComputationalJournalism\AssignmentThree>C:\Python27\python.exe randomize.py
+Enter your list : ['Economist','Guardian','Daily Mail','Mirror','Independent']
+The randomized list :
+Daily Mail
+Independent
+Mirror
+Guardian
+Economist
+
+
+Final random set :
+
+13th article from The Daily Mail archived on 26-Oct-2011
+http://www.dailymail.co.uk/money/markets/article-2053880/Marks-Spencer-results-likely-add-High-Street-gloom.html
+
+9th article from The Independent archived on 17-Apr-2010
+http://www.independent.co.uk/voices/commentators/amy-jenkins-this-fantasy-of-niceness-denies-us-healthy-anger-1947246.html
+
+7th article from The Mirror archived on 02-Aug-2012
+http://www.mirror.co.uk/sport/football/transfer-news/chelsea-transfers-ashley-cole-is-a-paris-1207535
+
+4th article from The Guardian archived on 18-Jun-2011
+http://www.guardian.co.uk/lifeandstyle/2011/jun/19/jay-rayner-restaurant-bishops-norwich
+
+10th article from The Economist archived on 10-Sep-2012
+http://www.economist.com/blogs/banyan/2012/09/indias-gandhi-family
